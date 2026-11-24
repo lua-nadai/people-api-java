@@ -1,4 +1,4 @@
-# Quipu — Desafio Java
+# Quipux — Desafio Java
 
 Aplicação REST em Java 17 + Spring Boot, autenticação HTTP Basic e interface responsiva com Bootstrap 5.3.9 (código aberto, licença MIT).
 
